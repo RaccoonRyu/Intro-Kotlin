@@ -1,4 +1,4 @@
-package IfExpressions
+package CH1_Intro.IfExpressions
 
 // 코틀린에서 참/거짓을 판단할 때는 Boolean 타입을 사용한다.
 // if 키워드는 식을 검사해 그 값이 참/거짓 중 어느 것인지 알아내고, 그 결과에 따라 작업을 수행한다.

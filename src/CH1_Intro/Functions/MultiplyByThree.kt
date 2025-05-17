@@ -1,4 +1,4 @@
-package Functions
+package CH1_Intro.Functions
 
 fun main () {
     println(multipleByThree(5))

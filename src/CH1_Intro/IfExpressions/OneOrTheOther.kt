@@ -1,4 +1,4 @@
-package IfExpressions
+package CH1_Intro.IfExpressions
 
 fun oneOrTheOther(exp: Boolean): String =
     if(exp)

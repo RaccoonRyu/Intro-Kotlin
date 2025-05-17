@@ -1,4 +1,4 @@
-package VarAndVal
+package CH1_Intro.VarAndVal
 /*
     식별자
     - 프로그램을 이루는 요소를 가리키기 위해 사용

@@ -1,4 +1,4 @@
-package StringTemplates
+package CH1_Intro.StringTemplates
 
 fun main() {
     val s = "value"

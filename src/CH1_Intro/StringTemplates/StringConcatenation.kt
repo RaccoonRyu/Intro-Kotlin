@@ -1,4 +1,4 @@
-package StringTemplates
+package CH1_Intro.StringTemplates
 
 fun main() {
     val s = "hi\n" // \n은 개행 문자

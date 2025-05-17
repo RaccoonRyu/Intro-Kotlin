@@ -1,4 +1,4 @@
-package Functions
+package CH1_Intro.Functions
 /*
     함수
     - 일련의 동작을 묶어 프로그램을 체계적으로 구성하고 코드를 재사용하는 가장 기본적인 방법

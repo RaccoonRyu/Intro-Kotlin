@@ -1,4 +1,4 @@
-package DataTypes
+package CH1_Intro.DataTypes
 
 fun main() {
     val n = 1 + 1.2

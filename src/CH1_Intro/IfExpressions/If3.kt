@@ -1,4 +1,4 @@
-package IfExpressions
+package CH1_Intro.IfExpressions
 
 fun main() {
     val n: Int = -11

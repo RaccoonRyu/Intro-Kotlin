@@ -1,4 +1,4 @@
-package VarAndVal
+package CH1_Intro.VarAndVal
 
 fun main() {
     // var 키워드에 저장된 값은 달라질 수 있다.

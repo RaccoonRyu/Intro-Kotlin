@@ -1,4 +1,4 @@
-package DataTypes
+package CH1_Intro.DataTypes
 
 fun main() {
     val whole: Int = 11 // 정수

@@ -1,4 +1,4 @@
-package HelloWorld
+package CH1_Intro.HelloWorld
 
 fun main() { // fun : 함수를 의미하는 function을 줄인 예약어
     // main() 안에 프로그램 코드가 들어간다.

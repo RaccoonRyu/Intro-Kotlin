@@ -1,4 +1,4 @@
-package DataTypes
+package CH1_Intro.DataTypes
 
 fun main() {
     println("Sally" + 5.9)

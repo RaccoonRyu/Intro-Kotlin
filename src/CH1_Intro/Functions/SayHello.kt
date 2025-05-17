@@ -1,4 +1,4 @@
-package Functions
+package CH1_Intro.Functions
 
 fun sayHello() { // 의미 있는 결과를 제공하지 않는 함수 반환 타입은 Unit이다. (생략되어 있음)
     println("Hallo!")

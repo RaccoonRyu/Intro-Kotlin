@@ -1,4 +1,4 @@
-package IfExpressions
+package CH1_Intro.IfExpressions
 
 // if문으로 함수 만드는 예제
 fun trueOrFalse(exp: Boolean): String {
