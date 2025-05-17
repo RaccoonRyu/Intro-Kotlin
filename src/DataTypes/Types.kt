@@ -1,4 +1,4 @@
-package DataTypes.StringPlusNumber
+package DataTypes
 
 fun main() {
     val whole: Int = 11 // 정수

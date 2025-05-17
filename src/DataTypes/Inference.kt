@@ -1,4 +1,4 @@
-package DataTypes.StringPlusNumber
+package DataTypes
 
 fun main() {
     val n = 1 + 1.2
